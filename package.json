@@ -3,6 +3,9 @@
   "version": "0.0.1",
   "description": "Face Mask Detection",
   "main": "index.js",
+  "repository": {
+    "type": "git",
+  },
   "keywords": [
     "face-mask-detection",
     "keras",
